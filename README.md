@@ -4,7 +4,7 @@ codespace na aula
  ultima atualização
 
  foram feitas as pag de login cadastro e feed 
- API 
- agora tenho que configurar os methodos  se vao ser post ou get 
+ tem a API 
+ agora tenho que configurar os methodos se é  post ou get 
  configurar as imagens como vou por algumas para deixar de ex no site 
- e ainda criar as conexẽos de banco de dados!!
+ e ainda criar as conexẽos de banco de dados para clientes !!
