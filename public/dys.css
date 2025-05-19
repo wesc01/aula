@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #46f700;
+}
+
+.nav-bar {
+    background: linear-gradient(to right, #000000, #46f700);
+    padding: 0;
+}
+
+.nav-bar ul {
+    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    & h1{
+        color:#46f700;
+    }
+}
+.text { 
+    width: 500px;
+    height: 100px;
+    border: groove;
+    border-radius: 5px;
+    position: relative; 
+    left:15%;
+    background-color: #000000;
+    color: #46f700;
+
+}
+button {
+    background-color: #000000;
+    color: #46f700;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    position: relative;
+    left: 15%;
+
+}
+
+img{
+    background-image: url('https://www.google.com/imgres?q=negao%20da%20borracharia&imgurl=https%3A%2F%2Fs2.glbimg.com%2FWrswOnGFrOt9UczT0sDeYW17kB8tCRd8iOAhp1SiDfwdykPLKE7xisTWhbOunWvd%2Fs.glbimg.com%2Fes%2Fge%2Ff%2Foriginal%2F2013%2F05%2F10%2Fdsc_0584.jpg&imgrefurl=https%3A%2F%2Fge.globo.com%2Fac%2Fnoticia%2F2013%2F05%2Fcom-apelido-inusitado-lutador-invicto-ha-17-lutas-treina-em-borracharia.html&docid=_F1aa3ybyqsRBM&tbnid=C2NIh87mHMKQwM&vet=12ahUKEwjT_f3907CNAxVuLbkGHUiwEwUQM3oECBQQAA..i&w=620&h=470&hcb=2&ved=2ahUKEwjT_f3907CNAxVuLbkGHUiwEwUQM3oECBQQAA');
+}
+
+.nav-bar ul li {
+    margin: 0;
+    position: relative;
+    left: 50%;
+}
+
+.nav-bar ul li a {
+    display: block;
+    color: #000000;
+    padding: 16px 24px;
+    text-decoration: none;
+    transition: background 0.3s;
+
+}
+
+}
+
+
+
+   
+
+.nav-bar ul li a:hover {
+    background: #444;
+}
+
+h1 {
+    margin: 32px 0 16px 24px;
+}
+
+p {
+    margin-left: 24px;
+}
+
+a {
+    margin-left: 24px;
+    color: #333;
+}
